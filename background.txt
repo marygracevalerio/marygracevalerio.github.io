@@ -1,0 +1,33 @@
+<html>
+<head>
+
+	<title>Background</title>
+	<body vlink="black" bgcolor="blue">
+<left>
+<font color="black" size="15">
+<hr>
+<center><img src="pasig.png" width="900" height="120"><br>
+<left><font color = "white" size = "13">ARELLANO UNIVERSITY-PASIG<br>
+<font color = "white" size = "5">Andres Bonifacio Campus<br>
+<font color = "white" size = "5">Pag-Asa St.Brgy. Caniogan, Pasig City<br>
+<br>
+<hr>
+<br>
+<center>
+<font face="Times New Roman" color="Yellow" size="19">
+Arellano University - Core Values - CHIEFS
+<br>
+<br>
+<font face="Times New Roman" color="white" size="18">
+C - Competence<br>
+H - Humility<br>
+I - Integrity<br>
+E - Equity<br>
+F - Fortitude<br>
+S - Stewardship
+<br>
+<br>
+
+
+</head>
+</html>

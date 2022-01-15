@@ -1,0 +1,52 @@
+<html>
+<head>
+
+	<title>Background</title>
+	<body vlink="black" bgcolor="lightpink">
+<hr>
+<font color="black" size="10">
+
+<center><font color="black" size="10">
+|<a href="home.html" media="print and (resolution:300dpi)">Home</a>
+|<a href="background.html" media="print and (resolution:300dpi)">Background</a>|
+<a href="talent&skill.html" media="print and (resolution:300dpi)">Talent and Skills</a>| 
+<a href="hobbies.html" media="print and (resolution:300dpi)">Hobbies</a>| 
+<a href="contact.html" media="print and (resolution:300dpi)">Contact</a>| 
+
+<hr>
+<center><img src="images/bb.jpg" width="400" height="300"><br>
+<left><font color = "lightpeach" size = "4">Hi There!<br>
+<font color = "black" size = "13	">Mary Grace Valerio<br>
+<font color = "black" size = "5">20 years old<br>
+<font color = "black" size = "5">Bachelor of Science in Information Technology<br>
+<font color = "black" size = "5">at Pamantasan ng Lungsod Pasig<br>
+<font color = "black" size = "5">born on September 1,2001<br>
+<br>
+<font color = "lightpeach" size = "6">My Family<br>
+<center><img src="images/fafam.jpg" width="300" height="200"><br>
+<br>
+<center><img src="images/fam.jpg" width="300" height="200"><br>
+<font color = "black" size = "5">My Mother name is Aida Valerio<br>
+<font color = "black" size = "5">My Father name is Edwin Valerio<br>
+<font color = "lightpeach" size = "5">"They have been married since 2004 and but they are still sweet to each other"<br>
+<font color = "lightpeach" size = "5">"Having a family like theirs is one of the best blessings I have ever received in my entire life"<br>
+<font color = "lightpeach" size = "5">I have 6 siblings<br>
+<font color = "black" size = "5">there are 5 females and 2 males<br>
+<font color = "white" size = "5"><br>
+<font color = "white" size = "5"><br>
+<font color = "lightpeach" size = "6">My Friends<br>
+<center><img src="images/friends.jpg" width="300" height="200"><br>
+<br>
+<center><img src="images/da.jpg" width="300" height="200"><br>
+<br>
+<center><img src="images/y.jpg" width="300" height="200"><br>
+<font color = "black" size = "5">"I have many friends that I still have with me and I am so blessed that they became my friends"<br>
+<font color = "white" size = "5"><br>
+<hr>
+<br>
+<center>
+<br>
+
+
+</head>
+</html>

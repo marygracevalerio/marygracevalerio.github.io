@@ -1,0 +1,31 @@
+<html>
+<head>
+
+	<title>Talent and Skills	</title>
+	<body vlink="black" bgcolor="lightpink">
+<hr>
+<font color="black" size="10"	>
+
+<center><font color="black" size="10">
+
+<center>|<a href="home.html" media="print and (resolution:300dpi)">Home</a>
+|<a href="background.html" media="print and (resolution:300dpi)">Background</a>|
+<a href="talent&skill.html" media="print and (resolution:300dpi)">Talent and Skills</a>| 
+<a href="hobbies.html" media="print and (resolution:300dpi)">Hobbies</a>| 
+<a href="contact.html" media="print and (resolution:300dpi)">Contact</a>| </center>
+
+<hr>
+<center>
+<font color = "black" size = "10">HELLO!!<br>
+<img src="images/hiphop.jpg" width="300" height="200"><br>
+<font color = "lightpeach" size = "5">I can Dancing in front of others<br><br>
+<img src="images/sing.jpg" width="300" height="200"><br>
+<font color = "lightpeach" size = "5">I can Sing slight in front of others<br><br>
+<img src="images/emo.jpg" width="300" height="200"><br>
+<font color = "lightpeach" size = "5">I can Handle my emotions<br><br>
+<img src="images/time.png" width="300" height="200"><br>
+<font color = "lightpeach" size = "5">I can Manage my time sometimes HAHA<br>
+<br>
+</center>
+</head>
+</html>
